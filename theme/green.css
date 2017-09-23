@@ -1,0 +1,64 @@
+/*green*/
+.headersection {background: #007000 none repeat scroll 0 0;}
+.icon a { background: #2d9d2d none repeat scroll 0 0;}
+.icon a:hover{background:#fff;color:#333}
+.searchbtn input[type="text"]{background: #52c252 none repeat scroll 0 0;border:solid #034703;}
+.searchbtn input[type="submit"]{border: 1px solid #549854;}
+.searchbtn input[type="submit"]:hover{
+	background: #005600 none repeat scroll 0 0;border:1px solid #52c252;}
+input[type="submit"]{background: #005600 none repeat scroll 0 0;border: 1px solid #52c252;}
+input[type="submit"]:hover{background:#FEF4E5;color:#000;}
+.navsection {
+  background: none repeat scroll 0 0 #35a535;}
+.navsection ul li {
+  border-left: 1px solid #007000;
+  border-right: 1px solid #38a838;}
+.navsection ul li a:hover, #active{background:#FEF4E5;color:#333;}
+.navsection ul li ul li{background:#E6AF4B;}
+.navsection ul li:first-child{border-left: 1px solid #007000;}
+.navsection ul li:last-child{border-right: 1px solid #38a838;}
+.overlay{background:rgba(0,0,0,.5);}
+.contentsection {
+  border: 1px solid #35a535;}
+.maincontent {
+  background: #fef4e5 none repeat scroll 0 0;}
+.maincontent, .sidebar{background: #c9ffc9 none repeat scroll 0 0;}
+.about img {
+  background: #fff none repeat scroll 0 0;border:1px solid #007000;}
+.pagination a{
+  background: #35a535 none repeat scroll 0 0;border:1px solid #fff;}
+.pagination a:hover{background: #007000 none repeat scroll 0 0;border:1px solid #fff;}
+.relatedpost h2 {
+  background: #35a535 none repeat scroll 0 0;border:1px solid #007000 !importent;}
+.samepost img {border: 1px solid #35a535;}
+.samepost h2 a{color: #007000;}
+.samepost h2, .about h2 {
+  border-bottom: 2px solid #007000;
+  color: #35a535;
+}
+.readmore a {
+  background: #007000 none repeat scroll 0 0;
+}
+.readmore a {border:1px solid #35a535; color:#35a535;}
+.readmore a:hover{color: #007000;}
+.sidebar {
+  background: #35a535 none repeat scroll 0 0;
+  border: 1px solid #007000;}
+.samesidebar ul li a {color: #007000; }
+.samesidebar ul li {
+  border-bottom: 1px dashed #fff;}
+.samesidebar h2 {
+  background: #35a535 none repeat scroll 0 0; border-bottom: 2px solid #007000;color:#fff;}
+.popular img {
+  background: #fff none repeat scroll 0 0;}
+.popular h3 a {
+  color: #fff;
+  text-decoration: none;
+}
+.shadow{
+ background:rgba(0, 0, 0, .6);}
+ .footermenu ul li a {
+  color: #35a535;}
+.footersection{background:#007000;}
+
+

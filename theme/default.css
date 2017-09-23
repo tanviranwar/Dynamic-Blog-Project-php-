@@ -1,0 +1,53 @@
+/* default */
+.headersection {background: #ca932f none repeat scroll 0 0;}
+.icon a { background: #a56e0a none repeat scroll 0 0;}
+.icon a:hover{background:#fff;color:#333}
+.searchbtn input[type="text"]{background: #FFE07C;}
+.searchbtn input[type="submit"]{}
+.searchbtn input[type="submit"]:hover{
+	background: #b7801c none repeat scroll 0 0;}
+input[type="submit"]{background: #b7801c none repeat scroll 0 0;border: 1px solid #e6af4b;}
+input[type="submit"]:hover{background:#FEF4E5;color:#000;}
+.navsection {
+  background: none repeat scroll 0 0 #e6af4b;}
+.navsection ul li {
+  border-left: 1px solid #fdc662;
+  border-right: 1px solid #c18a26;}
+.navsection ul li a:hover, #active{background:#FEF4E5;color:#333;}
+.navsection ul li ul li{background:#E6AF4B;}
+.navsection ul li:first-child{border-left: 0px solid #fdc662;}
+.navsection ul li:last-child{border-right: 0px solid #c18a26;}
+.overlay{background:rgba(0,0,0,.5);}
+.contentsection {
+  background: #ffffff none repeat scroll 0 0;}
+.maincontent {
+  background: #fef4e5 none repeat scroll 0 0;}
+.about img {
+  background: #fff none repeat scroll 0 0;}
+.pagination a{
+  background: #e6af4b none repeat scroll 0 0;}
+.pagination a:hover{background: #be8723 none repeat scroll 0 0;}
+.relatedpost h2 {
+  background: #e6af4b none repeat scroll 0 0;}
+.samepost img {
+  background: #fff none repeat scroll 0 0;}
+.samepost h2, .about h2 {
+  border-bottom: 2px solid #e0d6c7;
+  color: #ac7511;
+}
+.readmore a {
+  background: #fff none repeat scroll 0 0;}
+.sidebar {
+  background: #fef4e5 none repeat scroll 0 0;
+  border: 1px solid #ded4c5;}
+.samesidebar ul li a {color: #814a00; }
+.samesidebar ul li {
+  border-bottom: 1px dashed #e9c05c;}
+.samesidebar h2 {
+  background: #e6af4b none repeat scroll 0 0;}
+.popular img {
+  background: #fff none repeat scroll 0 0;}
+.shadow{
+ background:rgba(0, 0, 0, .6);}
+ .footermenu ul li a {
+  color: #E6AF4B;}
